@@ -1,0 +1,12 @@
+[submodule "Blink"]
+	path = Blink
+	url = https://github.com/rileyrg/Blink.git
+[submodule "DigitalInputs"]
+	path = DigitalInputs
+	url = https://github.com/rileyrg/DigitalInputs.git
+[submodule "RGB_LED"]
+	path = RGB_LED
+	url = https://github.com/rileyrg/RGB_LED.git
+[submodule "Arduino-CMake-NG"]
+	path = Arduino-CMake-NG
+	url = https://github.com/arduino-cmake/Arduino-CMake-NG
