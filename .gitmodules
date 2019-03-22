@@ -10,3 +10,6 @@
 [submodule "Arduino-CMake-NG"]
 	path = Arduino-CMake-NG
 	url = https://github.com/arduino-cmake/Arduino-CMake-NG
+[submodule "Arduino"]
+	path = Arduino
+	url = https://github.com/arduino/Arduino.git
