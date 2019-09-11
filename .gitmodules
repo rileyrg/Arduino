@@ -1,11 +1,11 @@
 [submodule "Blink"]
-	path = Blink
+	path = projects/Blink
 	url = https://github.com/rileyrg/Blink.git
 [submodule "DigitalInputs"]
-	path = DigitalInputs
+	path = projects/DigitalInputs
 	url = https://github.com/rileyrg/DigitalInputs.git
 [submodule "RGB_LED"]
-	path = RGB_LED
+	path = projects/RGB_LED
 	url = https://github.com/rileyrg/RGB_LED.git
 [submodule "Arduino-CMake-NG"]
 	path = Arduino-CMake-NG
@@ -13,6 +13,6 @@
 [submodule "Arduino"]
 	path = Arduino
 	url = https://github.com/arduino/Arduino.git
-[submodule "ccls"]
-	path = ccls
-	url = https://github.com/MaskRay/ccls
+[submodule "LED-Trailing"]
+	path = LED-Trailing
+	url = git@github.com:rileyrg/LED-Trailing.git
