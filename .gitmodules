@@ -1,15 +1,21 @@
-[submodule "Blink"]
-	path = projects/Blink
-	url = https://github.com/rileyrg/Blink.git
-[submodule "DigitalInputs"]
-	path = projects/DigitalInputs
-	url = https://github.com/rileyrg/DigitalInputs.git
-[submodule "RGB_LED"]
-	path = projects/RGB_LED
-	url = https://github.com/rileyrg/RGB_LED.git
 [submodule "Arduino-CMake-NG"]
 	path = Arduino-CMake-NG
 	url = https://github.com/arduino-cmake/Arduino-CMake-NG
 [submodule "Arduino"]
 	path = Arduino
 	url = https://github.com/arduino/Arduino.git
+[submodule "LED-Trailing"]
+	path = projects/LED-Trailing
+	url = git@github.com:rileyrg/LED-Trailing.git
+[submodule "TrafficLight"]
+	path = projects/TrafficLight
+	url = git@github.com:rileyrg/TrafficLight.git
+[submodule "Blink"]
+	path = projects/Blink
+	url = git@github.com:rileyrg/Blink.git
+[submodule "DigitalInputs"]
+	path = projects/DigitalInputs
+	url = git@github.com:rileyrg/DigitalInputs.git
+[submodule "AnalogInput"]
+	path = projects/AnalogInput
+	url = git@github.com:rileyrg/AnalogInput.git
