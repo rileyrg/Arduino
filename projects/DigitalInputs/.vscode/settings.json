@@ -1,6 +1,0 @@
-{
-    "terminal.integrated.env.linux": {
-        "PATH": "/home/rgr/.platformio/penv/bin:/home/rgr/.platformio/penv:/home/rgr/.bin:/home/rgr/.bin/emacs/bin:/home/rgr/.bin/eclipse:/home/rgr/development/thirdparty/android/sdk/tools/bin:/home/rgr/development/thirdparty/android/sdk/platform-tools:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/home/rgr/.fzf/bin",
-        "PLATFORMIO_CALLER": "vscode"
-    }
-}
