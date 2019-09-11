@@ -1,7 +1,10 @@
-;;; Directory Local Variables
-;;; For more information see (info "(emacs) Directory Variables")
+(
+ ( nil .  (
+           (progn
+             (make-local-variable 'process-environment)
+             (setq process-environment (copy-sequence process-environment))
+             (setenv "ARDUINO_SDK_PATH " "~/development/thirdparty/arduinoSDK"))
 
-((c++-mode
-  (projectile-project-compilation-dir . "build")
-  (projectile-project-compilation-cmd . "cmake .. && make Blink_flash")))
-
+           (projectile-project-compilation-dir . "build")
+           (projectile-project-compilation-cmd . "cmake .. && make Blink_flash")
+           )))

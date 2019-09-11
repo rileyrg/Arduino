@@ -13,6 +13,3 @@
 [submodule "Arduino"]
 	path = Arduino
 	url = https://github.com/arduino/Arduino.git
-[submodule "LED-Trailing"]
-	path = LED-Trailing
-	url = git@github.com:rileyrg/LED-Trailing.git
