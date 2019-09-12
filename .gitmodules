@@ -19,3 +19,6 @@
 [submodule "AnalogInput"]
 	path = projects/AnalogInput
 	url = git@github.com:rileyrg/AnalogInput.git
+[submodule "projects/Button"]
+	path = projects/Button
+	url = git@github.com:rileyrg/Button.git
