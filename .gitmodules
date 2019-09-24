@@ -43,9 +43,6 @@
 [submodule "projects/EightLEDsSwitch"]
 	path = projects/EightLEDsSwitch
 	url = git@github.com:rileyrg/EightLEDsShift
-[submodule "projects/Fading"]
-	path = projects/Fading
-	url = git@github.com:rileyrg/Fading
 [submodule "projects/OneDigitLED"]
 	path = projects/OneDigitLED
 	url = git@github.com:rileyrg/OneDigitLED
@@ -55,3 +52,6 @@
 [submodule "projects/Sweep"]
 	path = projects/Sweep
 	url = git@github.com:rileyrg/Sweep
+[submodule "projects/Fading"]
+	path = projects/Fading
+	url = git@github.com:rileyrg/Fading.git
