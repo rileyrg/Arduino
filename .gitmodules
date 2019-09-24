@@ -22,3 +22,36 @@
 [submodule "projects/Button"]
 	path = projects/Button
 	url = git@github.com:rileyrg/Button.git
+[submodule "projects/Responder-Experiment"]
+	path = projects/Responder-Experiment
+	url = git@github.com:rileyrg/Responder-Experiment
+[submodule "projects/ActiveBuzzer"]
+	path = projects/ActiveBuzzer
+	url = git@github.com:rileyrg/ActiveBuzzer
+[submodule "projects/PassiveBuzzer"]
+	path = projects/PassiveBuzzer
+	url = git@github.com:rileyrg/PassiveBuzzer
+[submodule "projects/RGB_LED"]
+	path = projects/RGB_LED
+	url = git@github.com:rileyrg/RGB_LED
+[submodule "projects/MakingSounds"]
+	path = projects/MakingSounds
+	url = git@github.com:rileyrg/MakingSounds
+[submodule "projects/TiltSwitch"]
+	path = projects/TiltSwitch
+	url = git@github.com:rileyrg/TiltSwitch
+[submodule "projects/EightLEDsSwitch"]
+	path = projects/EightLEDsSwitch
+	url = git@github.com:rileyrg/EightLEDsShift
+[submodule "projects/Fading"]
+	path = projects/Fading
+	url = git@github.com:rileyrg/Fading
+[submodule "projects/OneDigitLED"]
+	path = projects/OneDigitLED
+	url = git@github.com:rileyrg/OneDigitLED
+[submodule "projects/FourDigitLED"]
+	path = projects/FourDigitLED
+	url = git@github.com:rileyrg/FourDigitLED
+[submodule "projects/Sweep"]
+	path = projects/Sweep
+	url = git@github.com:rileyrg/Sweep
